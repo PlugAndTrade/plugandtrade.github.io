@@ -4,28 +4,39 @@ Plug And Trade Website
 # Setup
 
 ###Install ruby
+
 First check if ruby is installed:
-´ruby --version´
+```
+ruby --version
+```
 This should return a version. If ruby is not installed, download latest ruby.
 
 ###Install bundler
-´gem install bundler´
+```
+gem install bundler
+```
 
 On Windows machines this is prone to fail with an ssl cert error.  In that case edit/create ~/.gemrc to look like this and try again:
+```
 ---
 :backtrace: false
 :bulk_threshold: 1000
 :sources: ["http://rubygems.org"]
 :update_sources: true
 :verbose: true
+```
 
 ###Run bundle install
 Go to the project root folder and run
-´bundle install´
+```
+bundle install
+```
 
 # Debug
 From project root folder run
-´bundle exec jekyll serve´
+```
+bundle exec jekyll serve
+```
 
 # Release
 Just push to master and the changes will be live on https://plugandtrade.github.io/ within moments.
