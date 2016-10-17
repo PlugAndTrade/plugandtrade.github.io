@@ -60,5 +60,7 @@ Images are in '/img/about/'
 Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
+
+
 =========
 For more details, read [documentation](http://jekyllrb.com/)
