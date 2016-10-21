@@ -684,6 +684,11 @@ section#contact {
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+    color:#fff;
+}
+
+section#contact a {
+  color: #fff;
 }
 
 section#contact .section-heading {
