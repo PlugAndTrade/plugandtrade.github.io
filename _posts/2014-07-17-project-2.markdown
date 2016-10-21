@@ -1,15 +1,15 @@
 ---
 title: Sova
-subtitle: Order Management System
+subtitle: Product visualisation
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2014-07-19
 img: sova.png
 thumbnail: sova-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2016 ongoing
 client: Sova
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Order Management System
+description: Sova sells beds and bedroom accessories. We help Sova by visualising how they can combine all their different articles into products in different ways.
 
 ---

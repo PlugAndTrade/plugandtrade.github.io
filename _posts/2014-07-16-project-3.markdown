@@ -1,15 +1,15 @@
 ---
 title: City Gross
-subtitle: Order Management System
+subtitle: Website & Order Management System
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2015-07-20
 img: citygross.png
 thumbnail: citygross-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2016 ongoing
 client: City Gross
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Website & Order Management System
+description: CityGross wanted a new site and they wanted it quick. 10 weeks after the first line of code was written we launched the new citygross.se. All orders pass through Plug And Trades Order Management System which lets CityGross gather all the necessary statistics for successful e-commerce very easily.
 
 ---

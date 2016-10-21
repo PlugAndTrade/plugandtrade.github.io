@@ -7,9 +7,9 @@ date: 2014-07-18
 img: bygghemma.png
 thumbnail: bygghemma-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2014 ongoing
 client: Bygghemma
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Order Management System
+description: We work very closely with Bygghemma. They use our Order Management System for all their orders and we also partner with them on other projects.
 
 ---
