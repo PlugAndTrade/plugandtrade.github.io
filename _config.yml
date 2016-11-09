@@ -31,6 +31,13 @@ people:
     - title: linkedin
       url: https://se.linkedin.com/in/henkish
 
+- name: Christine Redestam
+  pic: 7
+  position: CFO/CEO of CEO
+  social:
+    - title: linkedin
+      url: https://dk.linkedin.com/in/christine-redestam-70773b1
+
 - name: Martin Nielsen
   pic: 3
   position: Danish Developer
