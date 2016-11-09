@@ -3,7 +3,7 @@ title: Bygghemma
 subtitle: Order Management System
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-01-29
 img: bygghemma.png
 thumbnail: bygghemma-thumbnail.png
 alt: image-alt

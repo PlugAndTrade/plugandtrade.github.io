@@ -3,7 +3,7 @@ title: Sova
 subtitle: Product visualisation
 layout: default
 modal-id: 2
-date: 2014-07-19
+date: 2015-11-01
 img: sova.png
 thumbnail: sova-thumbnail.png
 alt: image-alt

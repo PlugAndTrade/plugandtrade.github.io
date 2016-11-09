@@ -3,7 +3,7 @@ title: City Gross
 subtitle: Website & Order Management System
 layout: default
 modal-id: 3
-date: 2015-07-20
+date: 2015-12-01
 img: citygross.png
 thumbnail: citygross-thumbnail.png
 alt: image-alt
