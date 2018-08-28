@@ -47,7 +47,7 @@ people:
 
 - name: Oscar Olsson
   pic: 4
-  position: Crisis Handler
+  position: Theatre Director
   social:
     - title: github
       url: https://github.com/DrunkenInfant
@@ -65,12 +65,19 @@ people:
 
 - name: Simon Thörnqvist
   pic: 6
-  position: Lead R&D
+  position: Fisherman
   social:
     - title: github
       url: https://github.com/drowzy
     - title: linkedin
       url: https://se.linkedin.com/in/simon-th%C3%B6rnqvist-71454461/en
+
+- name: Max Noack
+  pic: 8  
+  position: Environmental Justice Warrior
+  social:
+    - title: facebook
+      url: https://www.facebook.com/maxnoack
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
