@@ -78,6 +78,8 @@ people:
   social:
     - title: facebook
       url: https://www.facebook.com/maxnoack
+    - title: linkedin
+      url: https://www.linkedin.com/in/maxnoack/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
