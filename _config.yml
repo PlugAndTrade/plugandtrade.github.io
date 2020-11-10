@@ -45,24 +45,6 @@ people:
     - title: facebook
       url: https://www.facebook.com/martindrangsfeldt.nielsen
 
-- name: Oscar Olsson
-  pic: 4
-  position: Theatre Director
-  social:
-    - title: github
-      url: https://github.com/DrunkenInfant
-    - title: linkedin
-      url: https://se.linkedin.com/in/oscar-olsson-57404246
-
-- name: Tommy Ivarsson
-  pic: 5
-  position: Secretary Developer
-  social:
-    - title: github
-      url: https://github.com/tomeo
-    - title: linkedin
-      url: https://se.linkedin.com/in/tommyi
-
 - name: Simon Thörnqvist
   pic: 6
   position: Fisherman
