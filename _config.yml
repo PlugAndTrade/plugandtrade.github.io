@@ -54,6 +54,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/maxnoack/
 
+- name: Luke Haresign
+  pic: 9
+  position: Squash Champion
+  social:
+    - title: github
+      url: https://github.com/lharesign
+    - title: linkedin
+      url: https://www.linkedin.com/in/lukeharesign/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
